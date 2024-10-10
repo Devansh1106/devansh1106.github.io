@@ -39,7 +39,7 @@ plugins:
   - search
   - tags
   - blog
-  - mkdocs-pdf
+  # - mkdocs-pdf
   # - awesome-pages
 
 markdown_extensions:
