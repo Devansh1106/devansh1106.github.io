@@ -1,0 +1,91 @@
+site_name: Devansh Tripathi
+site_url: https://example.com/home
+site_description: Academic website
+site_author: Devansh Tripathi
+copyright: Copyright &copy; 2024 Devansh Tripathi
+
+
+theme:
+  name: material
+  icon:
+    logo: material/library
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+  palette:
+    scheme: slate
+    primary: purple
+    accent: indigo
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking  
+    - navigation.path
+    - navigation.top
+    - content.code.copy
+  font:
+    text: Sans Serif Mono
+    code: Roboto Mono
+
+plugins:
+  - search
+  - tags
+  - blog
+  - mkdocs-pdf
+  # - awesome-pages
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Devansh1106
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/Devansh_1106
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Notes:
+    - notes/index.md
+    - notes/Flux Reconstruction.md
+    - notes/Important terms.md
+    - notes/MPI_Win_fence.md
+    - notes/Memory Models.md
+    - notes/Memory Window.md
+    - notes/Read-Modify-Write operations.md
+    - notes/Target synchronization.md
+    - notes/Types of Locks.md
+    - notes/Undefined behavior in RMA.md
+    - notes/Window creation.md
+    - notes/`Accumulate` operation.md
+    - notes/`Get` operation.md
+    - notes/`Put` operation.md
+  - Projects:
+    - projects/index.md
+  - Blog: 
+    - blog/index.md
