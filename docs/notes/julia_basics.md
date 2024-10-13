@@ -1,5 +1,5 @@
 ---
-title: Julia Baiscs
+title: Julia Basics
 description: From the video- [link](https://www.youtube.com/watch?v=M2i7sSRcSIw&list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa&index=3)
 date: 2024/10/13
 draft: True

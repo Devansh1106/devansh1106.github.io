@@ -80,11 +80,12 @@ nav:
     - notes/Read-Modify-Write operations.md
     - notes/Target synchronization.md
     - notes/Types of Locks.md
-    - notes/Undefined behavior in RMA.md
+    - notes/Undefined behaviour in RMA.md
     - notes/Window creation.md
-    - notes/`Accumulate` operation.md
-    - notes/`Get` operation.md
-    - notes/`Put` operation.md
+    - notes/Accumulate operation.md
+    - notes/Get operation.md
+    - notes/Put operation.md
+    - notes/julia_basics.md
   - Projects:
     - projects/index.md
   - Blog: 
