@@ -90,3 +90,8 @@ nav:
     - projects/index.md
   - Blog: 
     - blog/index.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-DD6NHH0CZP
