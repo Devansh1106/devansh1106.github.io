@@ -23,6 +23,7 @@ Projects that I have done so far and enjoyed:
 - [Distributed memory parallelization of Lax-Wendroff Flux Reconstruction](https://github.com/Arpit-Babbar/TrixiLW.jl/issues/33)
     - Performed parallelisation of the code for Lax-Wendroff Flux Reconstruction method for solving hyperbolic conservation laws for 1D and 2D cases using Message Passing Interface (MPI).
     - Improved execution time of code by 13 times on a multicore architecture with efficiency of 82% on cartesian and curvilinear meshes
+    - The project report can be accessed [here](https://github.com/Devansh1106/internship_tifr_cam2024).
 
 ## Some Other Codes  
 

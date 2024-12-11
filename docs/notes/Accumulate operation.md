@@ -1,5 +1,6 @@
 ---
 title: Accumulate operation
+author: Devansh Tripathi
 ---
 - `MPI_Accumulate` operation provides a way to move and combine data at the destination using any of the reduction operations such as `MPI_SUM` etc.
 - It allows **only predefined operation** such `MPI_SUM`, `MPI_LAND`, `MPI_MAX` etc. User defined operations can not be used with it.
