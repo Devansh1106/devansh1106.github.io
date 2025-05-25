@@ -9,7 +9,7 @@ These are the notes that I take while learning something new and wanted to share
 |       MPI Remote Memory Access                                    |    Julia Basics                   |
 | ----------------------------------------------------------------- | --------------------------------- |
     [Flux Reconstruction](Flux Reconstruction.md)                   |  [Julia basics](julia_basics.md)  |
-    [Accumulate operation](Accumulate operation.md)                 |                                   |
+    [Accumulate operation](Accumulate operation.md)                 |   |
     [Get operations](Get operation.md)                              |
     [Put operations](Put operation.md)                              |
     [Important Terms](Important terms.md)                           |

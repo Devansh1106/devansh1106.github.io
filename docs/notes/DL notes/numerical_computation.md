@@ -48,3 +48,54 @@ where $\theta$ is the angle between $u$ and the gradient. For minimizing this, w
 
 ### Line search
 TODO
+
+# Shallow Neural Networks
+
+Consider the case with $D$ hidden units where the $d$ th hidden unit is:
+$$ h_d = a[\theta_{d0} + \theta_{d1}x],$$
+where $a[\cdot]$ is the *activation function* and these are combined linearly to create the output:
+$$ y = \phi_0 + \sum\limits_{d=1}^{D} \phi_dh_d.$$
+
+The hidden layer has just $x$ because there is only one input. In case of multivariate input, hidden layer will be function of each of the components of the input.
+
+![Neural nets](/home/devansh/Documents/my_website/docs/assets/dl/neural_net.png){width=300px}
+
+> ${\bf Network Capacity:}$ The number of hidden units in shallow network is a measure of network capacity.  
+
+With ReLU activation functions, the output of a network with $D$ hidden units has atmost $D$ joints and it is a piecewise linear function with $D+1$ linear regions.  
+
+> ${\bf Universal Approximation Theorem:}$ This theorem says that for any continuous function, there exists a shallow network that can approximate this function to any specified precision.
+
+## Multivariate inputs and outputs
+
+### Multivariate Outputs
+
+To extend the network to multivariate outputs ${\bf y}$, we use different linear function of the hidden layer for each output. For example: A network with a scalar input $x$ and $4$ hidden layers and a $2D$ output ${\bf y} = [y_1, y_2]^\top$ would defined as
+$$
+\begin{alignat*}{4}
+    h_1 &= a[\theta_{10} + \theta_{11}x]\\
+    h_2 &= a[\theta_{20} + \theta_{21}x]\\
+    h_3 &= a[\theta_{30} + \theta_{31}x]\\
+    h_4 &= a[\theta_{40} + \theta_{41}x]  
+\end{alignat*}
+$$
+
+![Neural nets](/home/devansh/Documents/my_website/docs/assets/dl/nn2output.png){width=300px}
+
+
+The outputs may look like
+$$
+\begin{alignat*}{2}
+    y_1 &= \phi_{10} + \phi_{11}h_1 + \phi_{12}h_2 + \phi_{13}h_3 + \phi_{14}h_4 \\
+    y_2 &= \phi_{20} + \phi_{21}h_1 + \phi_{22}h_2 + \phi_{23}h_3 + \phi_{24}h_4 
+\end{alignat*}
+$$
+
+Since we are taking the combination of linear functions, the slope of the linear regions can change according to the value $\phi$'s but the location of joints will be same in both outputs because of no translation in $x$ axis. $\phi_0$ can cause translation in $y$ axis.
+
+### Multivariate Inputs
+In the case of multivariate input ${\bf x}=[x_1, x_2]^\top$, the hidden will be defined as 
+$$ h_d = a[\theta_{d0} + \theta_{d1}x_1 + \theta_{d2}x_2]$$
+Then these hidden layers are combined in the usual way of linear combination.  
+  
+![Image title](/home/devansh/Documents/my_website/docs/assets/dl/nn2input.png){width=300px}
