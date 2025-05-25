@@ -2,18 +2,19 @@ I am Devansh Tripathi, an applied mathematics student at Indian Institute of Sci
 
 ### Upcoming 
 
-I am very excited to be a project mobility student at [ETH Zurich](https://ethz.ch/en.html), Switzerland in the upcoming summer of 2025. I will be working on design and rigorous analysis of Physics informed neural networks (PINNs) and their applications in computational PDEs with [Prof. Dr. Siddhartha Mishra](https://camlab.ethz.ch/the-group/group-head.html) at [CAMLab](https://camlab.ethz.ch/).
+I am currently a project mobility student at [ETH Zurich](https://ethz.ch/en.html), Switzerland. I will be working on design and rigorous analysis of Neural Operators and their applications in computational PDEs with [Prof. Dr. Siddhartha Mishra](https://camlab.ethz.ch/the-group/group-head.html) at [CAMLab](https://camlab.ethz.ch/).
 
 ## Research
 My research interests include:  
 
-- Numerical Solution of ODEs/PDEs  
+- Numerical Solution of ODEs/PDEs 
+- Analysis of Deep Learning, Neural Operators 
 - Parallel Computing  
 - Machine Learning
 
 ## Achievements/Fellowships
 
-- [Awarded ETH4D Student Project Fellowship, 2024](one-pager/eth4d.md)
+- [Awarded ETH for Development Fellowship, 2024](one-pager/eth4d.md)
 - [Awarded Summer Student Research Programme (SSRP), 2024](one-pager/ssrp_tifrcam.md)
 - [Awarded INSPIRE Scholarship for Higher Education (SHE), 2022](one-pager/inspire_she.md)
 
