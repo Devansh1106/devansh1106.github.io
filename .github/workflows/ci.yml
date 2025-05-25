@@ -38,10 +38,10 @@ jobs:
       #     path: ./site  # This will be overwritten later, safe to reuse
 
       - name: Upload artifact
-        # uses: actions/upload-pages-artifact@v1
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-pages-artifact@v3
+        # uses: actions/upload-artifact@v3
         with:
-          name: github-pages
+          # name: github-pages
           path: ./site
 
   deploy:
