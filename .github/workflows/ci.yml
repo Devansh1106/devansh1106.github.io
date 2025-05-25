@@ -30,6 +30,12 @@ jobs:
         uses: actions/configure-pages@v3
         with:
           enablement: 'deploy'
+          
+      - name: Pre-fetch upload-artifact action
+        uses: actions/upload-artifact@v3
+        with:
+          name: dummy
+          path: ./site  # This will be overwritten later, safe to reuse
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
