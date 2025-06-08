@@ -3,10 +3,19 @@ title: Notes
 description: These are the notes that I take while learning something new and wanted to share them in public.
 ---
 # Notes
-These are the notes that I take while learning something new and wanted to share them in public.
+These notes are not complete. I update them occassionaly.
 
+#### [Notes on General Topology](https://github.com/Devansh1106/sem6/tree/main/gen_topology)
 
-|       MPI Remote Memory Access                                    |    Julia Basics                   |
+#### [Notes on Deep Learning](https://github.com/Devansh1106/sem6/blob/main/dl_notes)
+
+#### [Notes on Theory of ODE](https://github.com/Devansh1106/sem6/tree/main/theory_of_ode)
+
+#### [Notes on Real Analysis](https://github.com/Devansh1106/sem5/tree/master/real_analysis)
+
+#### [TIFR-CAM Internship report](https://github.com/Devansh1106/internship_tifr_cam2024)
+
+<!-- |       MPI Remote Memory Access                                    |    Julia Basics                   |
 | ----------------------------------------------------------------- | --------------------------------- |
     [Flux Reconstruction](Flux Reconstruction.md)                   |  [Julia basics](julia_basics.md)  |
     [Accumulate operation](Accumulate operation.md)                 |   |
@@ -21,4 +30,4 @@ These are the notes that I take while learning something new and wanted to share
     [Types of Locks](Types of Locks.md)                             |
     [Undefined behaviour in RMA](Undefined behaviour in RMA.md)     |
     [Window creation](Window creation.md)                           |
-
+ -->

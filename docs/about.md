@@ -1,4 +1,4 @@
-I am Devansh Tripathi, a $3^{rd}$ year applied mathematics major student at Indian Institute of Science Education and Research ([IISER](https://www.iisertvm.ac.in)), Thiruvananthapuram, India. I am particularly interested in computational partial differential equations (PDEs), parallel computing and machine learning. I have had experiences of working on numerical solution of ordinary differential equation (ODEs)/PDEs and their parallelization using Message Passing Interface (MPI). 
+I am Devansh Tripathi, a $4^{th}$ year applied mathematics major student at Indian Institute of Science Education and Research ([IISER](https://www.iisertvm.ac.in)), Thiruvananthapuram, India. I am particularly interested in computational partial differential equations (PDEs), parallel computing and machine learning. I have had experiences of working on numerical solution of ordinary differential equation (ODEs)/PDEs and their parallelization using Message Passing Interface (MPI). 
 
 ## Technical Skills
 - **Programming Languagues**: C++, C, Julia, Python, Latex  
