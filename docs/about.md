@@ -10,4 +10,4 @@ I am Devansh Tripathi, a $4^{th}$ year applied mathematics major student at Indi
 - **Areas of Interest**: Numerical Solutions of PDEs/ODEs, Parallel Computing, Machine Learning
 
 ## CV
-Pdf file can be found [here](assets/CV_Devansh-1.pdf){target=_blank}
+Pdf file can be found [here](assets/CV_Devansh-6.pdf){target=_blank}

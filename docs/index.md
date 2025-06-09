@@ -43,5 +43,6 @@ Here are some of my recent presentation:
 
 
 
-## Contact
-Feel free to write an email to me [here](mailto:devansh22@iisertvm.ac.in){target=_blank}, I enjoy email conversations!
+## Contact & CV
+- Please download my curriculum vitae [here.](assets/CV_Devansh-6.pdf)
+- Feel free to write an email to me [here](mailto:devansh22@iisertvm.ac.in){target=_blank}!

@@ -3,7 +3,7 @@ title: Notes
 description: These are the notes that I take while learning something new and wanted to share them in public.
 ---
 # Notes
-These notes are not complete. I update them occassionaly.
+These notes are not complete and are not error-free. I update them occassionaly.
 
 #### [Notes on General Topology](https://github.com/Devansh1106/sem6/tree/main/gen_topology)
 
