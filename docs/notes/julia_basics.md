@@ -13,12 +13,12 @@ Array are always allocated on heap. So avoid many array calls, try to fuse loops
 - Broadcast operations are faster. For e.g. `C .= A .+ B` will be faster and will take less memory if everything is passed to the function, nothing is being allocated inside the function. (ideal way of julia writing).
     - Under the hood, broadcast operation is using `for` loops.
 
-- `@inbounds` macro: Removes checks for bounds in order to improve performance.
-- `@boundscheck` macro: Checks for bounds.
-- `@view` macro: Makes a view of the memory location passed to it (does not allocate new memory unlike slicing does). Basically, it creates a pointer pointing in the direction of original object (pointer will allocate some memory for it, but it will be constant and does not depend upon the array to which it is pointing).  
-- `@code_llvm`: Gives compiler code for the function.  
-- `@code_typed`: Gives compiler code with names of registers and their types (if available).  
-- `@code_warntype`: Gives information of types considered by compiler.  
+- `\@inbounds` macro: Removes checks for bounds in order to improve performance.
+- `\@boundscheck` macro: Checks for bounds.
+- `\@view` macro: Makes a view of the memory location passed to it (does not allocate new memory unlike slicing does). Basically, it creates a pointer pointing in the direction of original object (pointer will allocate some memory for it, but it will be constant and does not depend upon the array to which it is pointing).  
+- `\@code_llvm`: Gives compiler code for the function.  
+- `\@code_typed`: Gives compiler code with names of registers and their types (if available).  
+- `\@code_warntype`: Gives information of types considered by compiler.  
 - `isbits()`: It check if the given value is of some amount of bits (32, 64, etc.). If given value is of type `Any` or `Number`, it return false since it does not have fixed bits.  
 Compiler constant: Objects whose values are known at compile time.  
 
@@ -26,7 +26,7 @@ Compiler constant: Objects whose values are known at compile time.
 
 There is a cost model in compiler of the languages that checks for the cost of computation and check whether to make the function inline or not.  
 Inlining means the compiler replace the function call with `llvm` (compiler) code of the function to avoid function calls.  
-Small function are advised to be inlined using `@inline`. It also affects the size of the code hence not all functions need to be inlined.  
+Small function are advised to be inlined using `\@inline`. It also affects the size of the code hence not all functions need to be inlined.  
 
 ### What is branch prediction?
 

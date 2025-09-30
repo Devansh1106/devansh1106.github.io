@@ -5,7 +5,15 @@ tags:
     - project
 ---
 
-Projects that I have done so far and enjoyed: 
+Projects that I have done so far and enjoyed:  
+
+## 2025
+
+- **Universal Approximation Theorem for Geometry Aware Operator Transformer (GAOT)**
+    - Proved Universal Approximation property (UAP) for Geometry Aware Operator Transformer (GAOT). UAP is the density result that says: GAOT can approximate any continuous solution operator between $L^p$ spaces with arbitrary accuracy.
+    - GAOT is the deep learning-based PDE solver that uses operator learning and transformers to numerically solve PDEs.
+    - GAOT learns the solution operators of PDEs on arbitrary domains accurately and efficiently for CFD simulations. Hence theoretical foundations for GAOT are of great importance.
+    - I learned classical PDE analysis, measure theory, functional and Fourier analysis and applied techniques from these areas to prove universal approximation property.
 
 ## 2024
 

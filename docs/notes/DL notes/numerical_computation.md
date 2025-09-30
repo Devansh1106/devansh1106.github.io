@@ -58,7 +58,7 @@ $$ y = \phi_0 + \sum\limits_{d=1}^{D} \phi_dh_d.$$
 
 The hidden layer has just $x$ because there is only one input. In case of multivariate input, hidden layer will be function of each of the components of the input.
 
-![Neural nets](/home/devansh/Documents/my_website/docs/assets/dl/neural_net.png){width=300px}
+<!-- ![Neural nets](/home/devansh/Documents/my_website/docs/assets/dl/neural_net.png){width=300px} -->
 
 > ${\bf Network Capacity:}$ The number of hidden units in shallow network is a measure of network capacity.  
 
@@ -80,7 +80,7 @@ $$
 \end{alignat*}
 $$
 
-![Neural nets](/home/devansh/Documents/my_website/docs/assets/dl/nn2output.png){width=300px}
+<!-- ![Neural nets](/home/devansh/Documents/my_website/docs/assets/dl/nn2output.png){width=300px} -->
 
 
 The outputs may look like
@@ -98,4 +98,4 @@ In the case of multivariate input ${\bf x}=[x_1, x_2]^\top$, the hidden will be 
 $$ h_d = a[\theta_{d0} + \theta_{d1}x_1 + \theta_{d2}x_2]$$
 Then these hidden layers are combined in the usual way of linear combination.  
   
-![Image title](/home/devansh/Documents/my_website/docs/assets/dl/nn2input.png){width=300px}
+<!-- ![Image title](/home/devansh/Documents/my_website/docs/assets/dl/nn2input.png){width=300px} -->

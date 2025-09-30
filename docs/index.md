@@ -5,25 +5,25 @@
        style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 20px;">
   <p>
     I am Devansh Tripathi, an applied mathematics student at Indian Institute of Science Education and Research 
-    <a href="https://www.iisertvm.ac.in">[IISER]</a>, Thiruvananthapuram in Kerala, India. I am currently in 4<sup>th</sup> year of integrated BS-MS degree. I am particularly interested in computational partial differential equations (PDEs), mathematical analysis of PDEs and deep learning. Email: devansh22 (at) iisertvm (dot) ac (dot) in
+    <a href="https://www.iisertvm.ac.in">[IISER]</a>, Thiruvananthapuram in Kerala, India. I am currently in 4<sup>th</sup> year of integrated BS-MS degree. I am particularly interested in mathematical analysis of PDEs and related areas. Email: devansh22 (at) iisertvm (dot) ac (dot) in
   </p>
 </div>  
 
-### On-going 
+### News
 
-I am currently a project mobility student at [ETH Zurich](https://ethz.ch/en.html), Switzerland. I will be working on mathematical analysis of Neural Operators and their applications in computational PDEs with [Prof. Dr. Siddhartha Mishra](https://camlab.ethz.ch/the-group/group-head.html) at [CAMLab](https://camlab.ethz.ch/).
+[May $\sim$ Aug, 2025] I am currently a project mobility student at [ETH Zurich](https://ethz.ch/en.html), Switzerland. I will be working on mathematical analysis of Neural Operators and foundation models in computational PDEs with [Prof. Dr. Siddhartha Mishra](https://camlab.ethz.ch/the-group/group-head.html) at [CAMLab](https://camlab.ethz.ch/). Specifically, I worked on proving universal approximation property (UAP) for Geometry aware Operator transformer (GAOT) using techniques from classical PDE analysis, functional and Fourier analysis.
 
 ## Research
 My research interests include:  
 
-- Numerical Solution of ODEs/PDEs 
-- Mathematical Analysis of Deep Learning, Neural Operators 
-- Parallel Computing  
-- Machine Learning
+- Mathematical Analysis of PDEs.
+- Geometric Analysis
+- Harmonic Analysis (in relation to PDEs)
+
 
 ## Achievements/Fellowships
 
-- [Awarded ETH for Development Fellowship, 2024](one-pager/eth4d.md)
+- [Awarded ETH for Development Fellowship, 2025](one-pager/eth4d.md)
 - [Awarded Summer Student Research Programme (SSRP), 2024](one-pager/ssrp_tifrcam.md)
 - [Awarded INSPIRE Scholarship for Higher Education (SHE), 2022](one-pager/inspire_she.md)
 
