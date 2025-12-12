@@ -22,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material mkdocs-bibtex mkdocs-rss-plugin
+          pip install mkdocs mkdocs-material mkdocs-bibtex mkdocs-rss-plugin mkdocs-ultralytics-plugin
 
       - name: Build MkDocs site
         run: |
