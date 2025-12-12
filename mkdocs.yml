@@ -31,6 +31,8 @@ theme:
     - navigation.path
     - navigation.top
     - content.code.copy
+    - posts.excerpts
+    - standard.posts
   font:
     text: Sans Serif Mono
     code: Roboto Mono
@@ -38,17 +40,29 @@ theme:
 plugins:
   - search
   - tags
-  # - blog
+  - blog:
+      blog_dir: blog
+  - blog:
+      blog_dir: news
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
   - bibtex:
       bib_dir: "docs/bibfiles/"
       bib_by_default: false
-  - blogging:
-      dirs: 
-        - blog
-      theme:
-        name: card
-      features:
-        tags: {}
+  - ultralytics:
+      add_desc: True
+      add_image: True
+      add_authors: True
+      add_json_ld: True
+      add_share_buttons: True
+      # add_copy_llm: True
+      default_image: https://avatars.githubusercontent.com/u/124599097?v=4
+      default_author: devansh22@iisertvm.ac.in
   # - mkdocs-pdf
   # - awesome-pages
 
@@ -75,7 +89,9 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - About: index.md
+  - CV: index.md
+  - News: 
+    - news/index.md
   - Notes:
     - notes/index.md
   - Projects:
@@ -84,7 +100,7 @@ nav:
     - blog/index.md
 
 extra:
-  favicon: assets/icon_my_pic.ico
+  favicon: docs/assets/icon_my_pic.ico
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Devansh1106

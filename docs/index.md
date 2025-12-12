@@ -4,28 +4,30 @@
        loading="lazy"
        style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 20px;">
   <p>
-    I am Devansh Tripathi, an applied mathematics student at Indian Institute of Science Education and Research 
-    <a href="https://www.iisertvm.ac.in">[IISER]</a>, Thiruvananthapuram in Kerala, India. I am currently in 4<sup>th</sup> year of integrated BS-MS degree. I am particularly interested in mathematical analysis of PDEs and related areas. Email: devansh22 (at) iisertvm (dot) ac (dot) in
+    I am Devansh Tripathi, an applied mathematics major student at Indian Institute of Science Education and Research 
+    <a href="https://www.iisertvm.ac.in">[IISER]</a>, Thiruvananthapuram in Kerala, India. I am currently in 4<sup>th</sup> year of integrated BS-MS degree. I am particularly interested in numerical analysis of PDEs, efficient algorithm development, parallel computing and related areas. Email: devansh22 (at) iisertvm (dot) ac (dot) in
   </p>
 </div>  
 
-### News
+### Latest News
+<!-- **&gt;&gt;**  -->
+- <u>[Attended LACAM at IISER Thiruvananthapuram, Kerala, Dec 8-11, 2025](news/posts/2025-12-12-lacam25.md)</u>  
+- <u>[ETH4D fellowship for the project at ETH Zurich](news/posts/2024-25-11-eth4d.md)</u>  
 
-[May $\sim$ Aug, 2025] I am currently a project mobility student at [ETH Zurich](https://ethz.ch/en.html), Switzerland. I will be working on mathematical analysis of Neural Operators and foundation models in computational PDEs with [Prof. Dr. Siddhartha Mishra](https://camlab.ethz.ch/the-group/group-head.html) at [CAMLab](https://camlab.ethz.ch/). Specifically, I worked on proving universal approximation property (UAP) for Geometry aware Operator transformer (GAOT) using techniques from classical PDE analysis, functional and Fourier analysis.
 
 ## Research
 My research interests include:  
 
-- Mathematical Analysis of PDEs.
-- Geometric Analysis
-- Harmonic Analysis (in relation to PDEs)
+- Numerical Analysis of PDEs.
+- Asymptotic Preserving schemes.
+- Parallel Computing.
+- Scientific Computing.
 
+## Awarded Fellowships
 
-## Achievements/Fellowships
-
-- [Awarded ETH for Development Fellowship, 2025](one-pager/eth4d.md)
-- [Awarded Summer Student Research Programme (SSRP), 2024](one-pager/ssrp_tifrcam.md)
-- [Awarded INSPIRE Scholarship for Higher Education (SHE), 2022](one-pager/inspire_she.md)
+- <u>[Awarded ETH for Development Fellowship, 2025](news/posts/2024-25-11-eth4d.md)</u>
+- <u>[Awarded Summer Student Research Programme (SSRP), 2024](news/posts/2023-25-04-ssrp_tifrcam.md)</u>
+- <u>[Awarded INSPIRE Scholarship for Higher Education (SHE), 2022](news/posts/2022-02-12-inspire_she.md)</u>
 
 ## Presentation
 Here are some of my recent presentation:  

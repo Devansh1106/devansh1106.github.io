@@ -1,17 +1,13 @@
----
-title: Notes
-description: These are the notes that I take while learning something new and wanted to share them in public.
----
 # Notes
 These notes are not complete and are not error-free. I update them occassionaly.
 
 #### [Notes on General Topology](https://github.com/Devansh1106/sem6/tree/main/gen_topology)
 
-#### [Notes on Deep Learning](https://github.com/Devansh1106/sem6/blob/main/dl_notes)
+<!-- #### [Notes on Deep Learning](https://github.com/Devansh1106/sem6/blob/main/dl_notes) -->
 
-#### [Notes on Theory of ODE](https://github.com/Devansh1106/sem6/tree/main/theory_of_ode)
+<!-- #### [Notes on Theory of ODE](https://github.com/Devansh1106/sem6/tree/main/theory_of_ode) -->
 
-#### [Notes on Real Analysis](https://github.com/Devansh1106/sem5/tree/master/real_analysis)
+<!-- #### [Notes on Real Analysis](https://github.com/Devansh1106/sem5/tree/master/real_analysis) -->
 
 #### [TIFR-CAM Internship report](https://github.com/Devansh1106/internship_tifr_cam2024)
 
