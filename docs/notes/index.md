@@ -10,7 +10,7 @@
 
 #### [TIFR-CAM Internship report (2024)](https://github.com/Devansh1106/internship_tifr_cam2024)
 
-#### [ETH Zurich Internship report (2025)](https://drive.google.com/file/d/1jseOhgVwUeCQhwO5njMnv_vsiAKv7izl/view?usp=drive_link)
+#### [ETH Zurich Internship synopsis (2025)](https://drive.google.com/file/d/1jseOhgVwUeCQhwO5njMnv_vsiAKv7izl/view?usp=drive_link)
 
 <!-- |       MPI Remote Memory Access                                    |    Julia Basics                   |
 | ----------------------------------------------------------------- | --------------------------------- |
