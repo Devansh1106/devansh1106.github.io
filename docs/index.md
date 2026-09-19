@@ -4,8 +4,9 @@
        loading="lazy"
        style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 20px;">
   <p>
-    I am Devansh Tripathi, an applied mathematics major student at Indian Institute of Science Education and Research 
-    <a href="https://www.iisertvm.ac.in">[IISER]</a>, Thiruvananthapuram in Kerala, India. I am currently in 4<sup>th</sup> year of integrated BS-MS degree. I am particularly interested in numerical analysis of PDEs, efficient algorithm development, parallel computing and related areas. Email: devansh22 (at) iisertvm (dot) ac (dot) in
+    I am Devansh Tripathi, an applied mathematics major student at Indian Institute of Science Education and Research, Thiruvananthapuram <a href="https://www.iisertvm.ac.in">(IISER TVM)</a> in Kerala, India. I am currently in 5<sup>th</sup> year of integrated BS-MS degree. I am particularly interested in numerical analysis of PDEs, efficient algorithm development, scientific and high performance computing and related areas. <br> <br>
+    
+    Email: devansh22 (at) iisertvm (dot) ac (dot) in
   </p>
 </div>  
 
@@ -19,9 +20,8 @@
 My research interests include:  
 
 - Numerical Analysis of PDEs.
-- Asymptotic Preserving schemes.
-- Parallel Computing.
 - Scientific Computing.
+- High Performance Computing.
 
 ## Awarded Fellowships
 

@@ -1,7 +1,6 @@
 # Notes
-These notes are not complete and are not error-free. I update them occassionaly.
 
-#### [Notes on General Topology](https://github.com/Devansh1106/sem6/tree/main/gen_topology)
+<!-- #### [Notes on General Topology](https://github.com/Devansh1106/sem6/tree/main/gen_topology) -->
 
 <!-- #### [Notes on Deep Learning](https://github.com/Devansh1106/sem6/blob/main/dl_notes) -->
 
@@ -9,7 +8,9 @@ These notes are not complete and are not error-free. I update them occassionaly.
 
 <!-- #### [Notes on Real Analysis](https://github.com/Devansh1106/sem5/tree/master/real_analysis) -->
 
-#### [TIFR-CAM Internship report](https://github.com/Devansh1106/internship_tifr_cam2024)
+#### [TIFR-CAM Internship report (2024)](https://github.com/Devansh1106/internship_tifr_cam2024)
+
+#### [ETH Zurich Internship report (2025)](https://drive.google.com/file/d/1jseOhgVwUeCQhwO5njMnv_vsiAKv7izl/view?usp=drive_link)
 
 <!-- |       MPI Remote Memory Access                                    |    Julia Basics                   |
 | ----------------------------------------------------------------- | --------------------------------- |

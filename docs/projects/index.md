@@ -11,7 +11,7 @@ Projects that I have done so far and enjoyed:
 
 - **Universal Approximation Property of Foundation Models For Computational PDEs**
     - Studied theoretical foundations of operator-learning foundation models for PDEs, including Convolutional Neural Operator (CNO), POSEIDON, and Geometry Aware Operator Transformer (GAOT).
-    - Investigated the universal approximation property for GAOT as a PDE solution operator between $L^p$ function spaces, drawing on existing approximation results for CNO and POSEIDON.
+    - Investigated the universal approximation property for GAOT as a univesal approximator between $L^p$ function spaces, drawing on existing approximation results for CNO and POSEIDON.
     - Leveraged techniques from PDE analysis, measure theory, functional analysis, and Fourier analysis to analyze the expressive power of transformer-based operator learning architectures.
 
 ## 2024
